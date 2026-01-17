@@ -3,6 +3,10 @@
 #support-url: https://t.me/CID_VPN_HELP_bot
 #profile-web-page-url: https://t.me/CID_VPN
 #announce: Готов ускорить ваш интернет!
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7FR'tg: @CID_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB'tg: @CID_VPN+(1)
+vmess://f3d4167e-b15e-4e46-82e9-9286ef93fda7@85.195.101.122:40878?encryption=auto&security=none&fp=&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE'tg: @CID_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB'tg: @CID_VPN
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria,%20Vienna%20[BL]
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria,%20Vienna%20[BL]
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?security=reality&sni=desrv.fasti.win&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&sid=15cdd4ff88310cf0&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria,%20Vienna%20[BL]
@@ -722,3 +726,4 @@ vless://7005f499-036f-4570-a2a1-29761cfbbd9e@31.184.218.182:443?security=reality
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@188.246.226.237:443?security=reality&sni=ru.fasti.win&fp=chrome&pbk=iAI3AU1ymQksBudcPndvOpV-mFWn-ECQKF0K42qb12k&sid=5e93929f12f446fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia,%20St%20Petersburg%20[BL]
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@5.178.87.15:443?security=reality&sni=ru.fasti.win&fp=chrome&pbk=iAI3AU1ymQksBudcPndvOpV-mFWn-ECQKF0K42qb12k&sid=5e93929f12f446fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia,%20St%20Petersburg%20[BL]
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@ru.fasti.win:443?security=reality&sni=ru.fasti.win&fp=chrome&pbk=iAI3AU1ymQksBudcPndvOpV-mFWn-ECQKF0K42qb12k&sid=5e93929f12f446fe&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia,%20St%20Petersburg%20[BL]
+
